@@ -1,0 +1,26 @@
+{
+  "name": "vanilla-todo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "npx parcel index.html",
+    "build": "parcel build index.html --experimental-scope-hoisting"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/8e01d7ed9bbdefa06ff1684267612a02.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gist.github.com/8e01d7ed9bbdefa06ff1684267612a02"
+  },
+  "homepage": "https://gist.github.com/8e01d7ed9bbdefa06ff1684267612a02",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.2",
+    "parcel-bundler": "^1.9.4"
+  }
+}
